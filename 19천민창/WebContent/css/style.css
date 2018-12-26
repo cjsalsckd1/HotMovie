@@ -1,0 +1,9 @@
+*{font-family:맑은 고딕; font-size:30px;}
+.foucs1{
+  color:#00ff00; /* 글자색 */
+  background-color:#ffff00; /* 배경색: yellow */
+}
+.foucs2{
+  color:#ffffff00; /* 글자색 */
+  background-color:#00AA00; /* 배경색 */
+}
